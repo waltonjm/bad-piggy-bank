@@ -17,10 +17,10 @@ Piggy Bank is a full stack 3 tier application consisting of a front-end, backend
 * HyperText Markup Language (HTML): Standard markup language for documents displayed in web browsers.
 * Cascading Style Sheets (CSS): Language to style an HTML document.
 * JavaScript (JS): Programming language that can be used in both the front-end and back-end.
-* README: Markdown plain-text language.
+* Markdown: Markdown plain-text language.
 
 ### File Formats
-* Graphs: JavaScript Object Notation (JSON). An open-standard file format and data interchange format.
+* JavaScript Object Notation (JSON). An open-standard file format and data interchange format.
 * Images: PNG
 
 ### Software Technology
@@ -29,7 +29,7 @@ Piggy Bank is a full stack 3 tier application consisting of a front-end, backend
 *Adobe Illustrator
 *Microsoft Paint
 *Microsoft Power Point
-*Screen-o-Matic screen records
+*Screen-o-Matic screen recorder
 *Node Package Manager (NPM)
 *Bootstrap
 *Firebase authentication
@@ -38,7 +38,6 @@ Piggy Bank is a full stack 3 tier application consisting of a front-end, backend
 *Node.js: Open-source, cross-platform that executes JS outside the web browser.
 *MongoDB: NoSQL database program. 
 *Heroku: Container-based cloud platform used to deploy, manage, and scale apps. 
-*Next.js: Open-source web development framework built on top of Node.js enables React based web apps server-side rendering and generates static websites.
 
 ### Photos and Icons
 *https://fontawesome.com: Free and fee-based icons.
@@ -47,7 +46,8 @@ Piggy Bank is a full stack 3 tier application consisting of a front-end, backend
 
 *https://unsplash.com: Free open-source royalty free images.
 
-### API Reference: TBD
+### API Reference: 
+Data Abstraction Layer (DAL)
 
 ## Getting Started
 Piggy Bank is deployed on Heroku. Cut and paste the URL into your web browser to navigate to the application. To download and make edits to the code, see Prerequisites and Installation.
