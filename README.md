@@ -96,5 +96,6 @@ MIT License.
 
 *MIT xPro Professional Certificate in Coding Boot Camp
 :grinning: :sweat_smile:
+![piggy-bank-app-home-screen](https://user-images.githubusercontent.com/99291782/175390250-7c9351de-516e-4a40-973c-81f8e44fda82.png)
 
 
