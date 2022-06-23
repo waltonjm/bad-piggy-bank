@@ -1,0 +1,50 @@
+:root,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+}
+.nav-link:hover,
+.navbar-brand:hover span {
+  text-decoration: underline;
+}
+
+.bg-purple {
+  background-color: #a9a4ce;
+}
+.card {
+  background-color: #52BA62;
+}
+  
+  /* .card-subtitle{} */
+
+.card-text {
+  font-size: large;
+  color:brown
+  }
+
+.card-header{
+  background-color: #6A98AD;
+  color: white;
+}
+.card-body{
+ background-color: #FFE389;
+
+}
+
+
+
+/* #8DC63F - light green
+#75A040 - dark green
+#BD3037 - light red
+#A3161D - dark red
+#A9A4CE - light purple
+#342B67 - dark purple
+#6A98AD - dark teal
+#A6C2CE - light teal
+#F096BF - dark pink
+#F8BED7 - light pink
+#F49F58 - dark orange
+#FFE389 - light orange
+#A97C50 - light brown
+#9B6F48 - dark brown */
