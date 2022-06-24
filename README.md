@@ -25,19 +25,29 @@ Piggy Bank is a full stack 3 tier application consisting of a front-end, backend
 
 ### Software Technology
 *Google Chrome Web Browser with Developer Tools
+
 *Adobe Photoshop
+
 *Adobe Illustrator
+
 *Microsoft Paint
+
 *Microsoft Power Point
+
 *Screen-o-Matic screen recorder
+
 *Node Package Manager (NPM)
+
 *Bootstrap
+
 *Firebase authentication
-*React: A JS library used to build user interfaces (UI). Renders logic with UI logic.
-*Express: JS framework.
-*Node.js: Open-source, cross-platform that executes JS outside the web browser.
-*MongoDB: NoSQL database program. 
-*Heroku: Container-based cloud platform used to deploy, manage, and scale apps. 
+
+*React
+
+*Node.js: 
+
+*Firebase REST NoSQL database 
+*Heroku:  
 
 ### Photos and Icons
 *https://fontawesome.com: Free and fee-based icons.
