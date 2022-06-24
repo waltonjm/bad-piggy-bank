@@ -45,7 +45,7 @@ Piggy Bank is a full stack 3 tier application consisting of a front-end, backend
 * https://unsplash.com: Free open-source royalty free images.
 
 ### API Reference: 
-Data Abstraction Layer (DAL)
+* Firebase API Key
 
 ## Getting Started
 Piggy Bank is deployed on Heroku. Cut and paste the URL into your web browser to navigate to the application. To download and make edits to the code, see Prerequisites and Installation.
@@ -68,21 +68,21 @@ Run the Node server
 Navigate to http://localhost:3000/ to run the application
 
 ## Usage
-*Create Account: Users can create an account.
-*Login: Authenticated users can login to use application.
-*Deposit: Users can deposit funds.
-*Withdraw: Users can withdraw funds.
-*Balance: User can check their balances.
-*All Data: For administrators. Contains user name, email addresses and passwords. 
+* Create Account: Users can create an account.
+* Login: Authenticated users can login to use application.
+* Deposit: Users can deposit funds.
+* Withdraw: Users can withdraw funds.
+* Balance: User can check their balances.
+* All Data: For administrators. Contains user name, email addresses and passwords. 
 
 ## Roadmap
 Students are encouraged to further develop the application to incorporate additional features. If time allows, will consider adding:
-*Roles for different users, such as a bank employee vs customer (authorization)
-*Money transfer between users
-*Account types, such as checking vs savings accounts
-*Assignment of random account numbers to new accounts
-*User profile updates that are persistent
-*Check deposit by taking a picture of the check
+* Roles for different users, such as a bank employee vs customer (authorization)
+* Money transfer between users
+* Account types, such as checking vs savings accounts
+* Assignment of random account numbers to new accounts
+* User profile updates that are persistent
+* Check deposit by taking a picture of the check
 
 ## License
 MIT License.
