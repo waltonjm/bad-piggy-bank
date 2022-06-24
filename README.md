@@ -24,37 +24,25 @@ Piggy Bank is a full stack 3 tier application consisting of a front-end, backend
 * Images: PNG
 
 ### Software Technology
-*Google Chrome Web Browser with Developer Tools
-
-*Adobe Photoshop
-
-*Adobe Illustrator
-
-*Microsoft Paint
-
-*Microsoft Power Point
-
-*Screen-o-Matic screen recorder
-
-*Node Package Manager (NPM)
-
-*Bootstrap
-
-*Firebase authentication
-
-*React
-
-*Node.js: 
-
-*Firebase REST NoSQL database 
-*Heroku:  
+* Google Chrome Web Browser with Developer Tools
+* Adobe Photoshop
+* Adobe Illustrator
+* Microsoft Paint
+* Microsoft Power Point
+* Screen-o-Matic screen recorder
+* RecForth
+* Node Package Manager (NPM)
+* Bootstrap
+* Firebase authentication
+* React
+* Node.js 
+* Firebase REST NoSQL database 
+* Heroku:  
 
 ### Photos and Icons
-*https://fontawesome.com: Free and fee-based icons.
-
-*https://shutterstock.com: Fee-based images with licensing options
-
-*https://unsplash.com: Free open-source royalty free images.
+* https://fontawesome.com: Free and fee-based icons.
+* https://shutterstock.com: Fee-based images with licensing options
+* https://unsplash.com: Free open-source royalty free images.
 
 ### API Reference: 
 Data Abstraction Layer (DAL)
